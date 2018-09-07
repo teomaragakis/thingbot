@@ -1,0 +1,17 @@
+{ 
+  "info": {
+    "name": "default name",
+    "hardwareKey": "A123456789",
+    "description": "default description",
+    "alwaysOn": false,
+    "alwaysOnAlert": false,
+    "product": {
+      "manufacturer": "teocorp",
+      "model": "teo zero",
+      "serialNo": "teo1234567890123",
+      "yearMade": "1985"
+    },
+    "interval" : 1000
+  },
+  "io": {}
+}

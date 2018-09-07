@@ -1,0 +1,8 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": "1337",
+    "helloUrl": "/api/things/hello/",
+    "dataUrl": "/api/things/:id/data"
+  }
+}
