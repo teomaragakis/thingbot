@@ -25,6 +25,6 @@
   "homepage": "https://github.com/teomaragakis/thingbot#readme",
   "dependencies": {
     "generate-random-data": "0.0.3",
-    "request": "^2.81.0"
+    "request": "^2.88.0"
   }
 }
